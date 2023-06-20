@@ -10,3 +10,6 @@ pip install pillow
 Credenciales 
 Admin: FeñaRodri
 Pass: duoc1234
+
+pip install django
+python -m pip install --upgrade pip
